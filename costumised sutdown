@@ -1,0 +1,3 @@
+@echo off
+msg * your massege
+shutdown -c “Error! Your massege ” -s
